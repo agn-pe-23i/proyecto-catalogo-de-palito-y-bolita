@@ -17,7 +17,7 @@ como agregar títulos, eliminar títulos, buscar títulos y tambien crear, guard
 
 ------------------------------ 
 {         Archivo            } <--------------------------------------------------------------------
-{----------------------------}                                                                      |
+{____________________________}                                                                      |
 {                            }                                                                      |
 { Guardar el catálogo creado } <--------------------------                                          |
 { en un archivo txt.         }                            |                                         |
