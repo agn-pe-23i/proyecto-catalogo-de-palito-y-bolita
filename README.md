@@ -13,9 +13,6 @@ costo de venta, costo de renta, director, año, temporadas, actor principal, fec
 como agregar títulos, eliminar títulos, buscar títulos y tambien crear, guardar e importar los catálogos creados.
 
 
-
-
-
 -Diagrama de estructura-
 
 ------------------------------ 
