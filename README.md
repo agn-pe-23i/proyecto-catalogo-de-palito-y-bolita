@@ -6,8 +6,15 @@ Reporte -Trabajo Final-
 -Matricula: -2223068588
             -2223068499
             
--Objetivo- 
-El proyecto consiste en estructurar un código en python el cual sea capaz de cumplir con lo siguiente, el código debe  ser capaz de crear un catálogo ya sea importado o agregado por el usuario el cual categorice el título seleccionado, es decir que sea película, serie, documental, entre otros. Además de mostrar cierta información como el costo de venta, renta, temporadas, director, actor, entre otros dependiendo del título seleccionado. El código debe cumplir con funciones como agregar títulos, eliminar títulos, buscar títulos, y por supuesto guardar los títulos ingresados. 
+El proyecto consiste en estructurar un código en phyton el cuál sea capaz de cumplir con lo siguiente, el código debe ser capaz de 
+crear un catálogo ya sea importado o agregado por el usuario, el cuál categorice los títulos seleccionados, dependienso de si es 
+película, serie, documental o evento en vivo. Además de que tambíen debe mostrar información de cada título como:
+costo de venta, costo de renta, director, año, temporadas, actor principal, fecha, entre otros. El código debe cumplir con funciones 
+como agregar títulos, eliminar títulos, buscar títulos y tambien crear, guardar e importar los catálogos creados.
+
+
+
+
 
 -Diagrama de estructura-
 
