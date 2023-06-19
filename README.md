@@ -5,6 +5,8 @@ Reporte -Trabajo Final-
       
 -Matricula: -2223068588
             -2223068499
+
+-Profesor: Abel García Nájera
             
 El proyecto consiste en estructurar un código en phyton el cuál sea capaz de cumplir con lo siguiente, el código debe ser capaz de 
 crear un catálogo ya sea importado o agregado por el usuario, el cuál categorice los títulos seleccionados, dependienso de si es 
