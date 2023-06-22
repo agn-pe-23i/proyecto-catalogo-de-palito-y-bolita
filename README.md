@@ -1,4 +1,4 @@
-Reporte -Trabajo Final-
+Reporte -Trabajo Final Corregido-
 
 -Nombre:-Pimentel Cruz Abdiel Yared 
         -Rodríguez Muñoz Erik
@@ -6,22 +6,25 @@ Reporte -Trabajo Final-
 -Matricula: -2223068588
             -2223068499
 
+
 -Profesor: Abel García Nájera
             
 El proyecto consiste en estructurar un código en phyton el cuál sea capaz de cumplir con lo siguiente, el código debe ser capaz de 
 crear un catálogo ya sea importado o agregado por el usuario, el cuál categorice los títulos seleccionados, dependienso de si es 
-película, serie, documental o evento en vivo. Además de que tambíen debe mostrar información de cada título como:
+película, serie, documental o evento en vivo. Además de que también debe mostrar información de cada título como:
 costo de venta, costo de renta, director, año, temporadas, actor principal, fecha, entre otros. El código debe cumplir con funciones 
 como agregar títulos, eliminar títulos, buscar títulos y tambien crear, guardar e importar los catálogos creados.
 
 -Diagrama de Estructura-  
+ <img width="524" alt="Captura de pantalla 2023-06-22 134915" src="https://github.com/agn-pe-23i/proyecto-catalogo-de-palito-y-bolita/assets/125075652/046e389b-f58f-4a7e-b88f-2eba3231e80f">
  
- 
- El diagrama anterior muestra 
+ Ahora explicaremos el diagrama anterior.
+ El módulo main, es aquel que se encarga de el funcionamiento principal de nuestro catálogo, en éste se encuentra el menubase, desde donde podras acceder a las demas acciones del programa, "main" manda la informacion de tipo int, en donde dependiendo de el módulo al que la mande, regresa información de tipo str. Aunque también tiene la acción de regresar de vuelta al menú principal. Al mandar la información a los demas módulos, estos evaluaran la información y se encargarán de realizar las funciones definidas de acuerdo a lo que el usuario solicite para despues regresar la información de tipo str.
+ Más abajo, explicamos las funciones que tienen los demás módulos. 
  
  -Uso de módulos y programa principal-
 
-Dentro de nuestro código, decidimos dividir las tareas que debería realizar el código para poder dar una estructura más limpia y sencilla. A continuación explicaremos las diferentes funciones que realiza nuestro programa. 
+Dentro de nuestro código, decidimos dividir las tareas que debería realizar el código para poder dar una estructura más limpia y sencilla. A continuación explicaremos las diferentes funciones que realiza nuestro programa. Cada módulo recibe informacion de tipo int, realiza una funcion asignada y devuelve informacion de tipo str. 
 
 Agregar: Esta se encarga de agregar los títulos, el director, el año, las temporadas. Y además agregarlos a la categoría que corresponda. 
 Archivo: Esta es más sencilla ya que se encarga de guardar los elementos que agregues al catálogo, y crear un archivo que los contenga para luego poder importarlos al programa. 
