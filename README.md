@@ -26,7 +26,7 @@ como agregar títulos, eliminar títulos, buscar títulos y tambien crear, guard
 
 Dentro de nuestro código, decidimos dividir las tareas que debería realizar el código para poder dar una estructura más limpia y sencilla. A continuación explicaremos las diferentes funciones que realiza nuestro programa. Cada módulo recibe informacion de tipo int, realiza una funcion asignada y devuelve informacion de tipo str. 
 
-Agregar: Esta se encarga de agregar los títulos, el director, el año, las temporadas. Y además agregarlos a la categoría que corresponda. 
+Agregar: Esta se encarga de agregar los títulos, el director, el año, las temporadas. Y además agregarlos a la categoría que corresponda, ademas de que tambien stambien se encarga de mostrar el catalogo cuando el usuario lo solicite. 
 Archivo: Esta es más sencilla ya que se encarga de guardar los elementos que agregues al catálogo, y crear un archivo que los contenga para luego poder importarlos al programa. 
 Eliminación: Esta se encargará de eliminar un título seleccionado junto con su información correspondiente. 
 Búsqueda: Esta es más sencilla, tiene la función de buscar dentro del catálogo un título de acuerdo a el título seleccionado de dicho catálogo. 
